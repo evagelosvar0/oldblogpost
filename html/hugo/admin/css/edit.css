@@ -1,0 +1,19 @@
+ textarea#mytextarea {
+	width: 600px;
+	height: 1200px;
+	border: 3px solid #cccccc;
+	padding: 5px;
+	font-family: Tahoma, sans-serif;
+	background-image: url(bg.gif);
+	background-position: bottom right;
+	background-repeat: no-repeat;
+}
+ 
+.editor-wrapper {
+  font: 16px/1.62 "Helvetica Neue", "Xin Gothic", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft YaHei", sans-serif;
+  color: #2c3e50;
+  max-width: 888px;
+        padding: 10px;
+        margin: 60px auto;
+        border: 3px solid #cccccc;
+}

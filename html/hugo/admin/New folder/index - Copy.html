@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Example Templated File</title>
+	</head>
+	<body>
+		 
+		<p>
+			Welcome {{.IP}}! You're visiting {{.URI}}.
+		</p>
+		{{.Include "/hugo/admin/includes/footer.html"}}
+		{{.Markdown "/hugo/admin/includes/file.md"}}
+		
+		{{.Include "/hugo/admin/includes/file.html" "arg1" 2 "value 3"}}
+		{{.Replace "haystack" "needle" "replacement"}}
+		haystack haystack needle needle
+		
+		{{.ToUpper "/hugo/admin/includes/header.html"}}
+		
+		{{.Files "/hugo/admin/includes"}}
+	</body>
+</html>

@@ -1,0 +1,8 @@
+---
+title: Ερωτήσεις για το Γ' τρίμηνο 2014-2015- Τμήμα Α4
+date: 2011-01-01
+tags: ["example1", "example2"]
+thumbnail: img/placeholder.png
+---
+![](http://1.bp.blogspot.com/-CkzC8WV5jmI/VQhPxkeWkiI/AAAAAAAAAPM/95hGwcQv4G4/s1600/questions.jpg) 
+Για να δείτε τις ερωτήσεις, πατήστε στον παρακάτω σύνδεσμο[Eρωτήσεις](https://www.dropbox.com/s/jy43dbfnf3rs3ks/%CE%95%CF%81%CF%89%CF%84%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%20%CF%80%CE%BB%CE%B1%CE%B3%CE%B9%CE%B1%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82.pdf?dl=0)

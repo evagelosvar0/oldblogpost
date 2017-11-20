@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<link rel=stylesheet type=text/css href='/hugo/admin/css/xblog.css'><meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+ 
+<title>{{.Doc.title}}</title>
+	</head>
+	<body>
+ 
+<div class="container">
+
+<div class="headercontainer">
+
+<div class="header">
+<h1><a href="http://gymnasioker4.graeca.tk:1111/hugo/admin/articles">
+4ο ΓΥΜΝΑΣΙΟ ΚΕΡΚΥΡΑΣ</a></h1>
+<p>Καλώς ήρθατε στον ιστότοπο μας!</p>
+</div>
+
+<div class="tags">
+{{.Include "/hugo/admin/articles/tags.html"}}
+</div>
+
+</div>
+
+<p></p>
+<div class="menu_up">
+	menu
+</div>
+<div class="content">
+ 
+<img class="imgheader" src="http://gymnasioker4.graeca.tk:9999/img/gymnasio.jpg" alt="Alt text" />
+		
+ 
+<br>
+Posted: {{.Doc.date}}
+<br>
+{{.Doc.body}}
+</div>
+ 
+<div class="sidebar">
+	<b>Αναρτήσεις</b>
+	<hr>
+	{{.Include "/hugo/admin/articles/sidebar.html"}}
+	<br><br>
+	<b>Tags</b>
+	<hr>
+	{{.Include "/hugo/admin/articles/tags.html"}}
+	<p style="text-align:center">
+  `x = (-b +- sqrt(b^2-4ac))/(2a) .`
+</p>
+</div>
+ 
+ 
+ 
+ 
+ 
+</div>
+ 
+ 
+	</body>
+</html>

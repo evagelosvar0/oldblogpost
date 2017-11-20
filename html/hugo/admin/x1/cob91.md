@@ -1,0 +1,9 @@
+---
+title: Η ψευδαίσθηση του ηλεκτρικού ρεύματος
+date: 2011-01-01
+tags: ["example1", "example2"]
+thumbnail: img/placeholder.png
+---
+![](http://www.giatimpampa.gr/wp-content/uploads/2010/09/acdc_logo11-300x225.jpg)
+
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="http://www.youtube.com/embed/VvxrDJnCLLQ" width="420"></iframe>

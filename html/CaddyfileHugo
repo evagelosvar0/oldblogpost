@@ -1,0 +1,31 @@
+#curl https://getcaddy.com | bash -s personal http.cgi,http.filemanager,http.upload,http.webdav
+
+
+http://gymnasioker4.graeca.tk:9999
+#http://www.graeca.tk:9999
+browse
+root /home/ain/pCloudDrive/html/hugo/gymnasioker4/public/
+
+
+#basicauth /pCloudDrive ain ainain
+#basicauth  ain ainain
+basicauth "Mary Lou" milkshakes {
+    #realm "Mary Lou's documents"
+    
+   /hugo/xadmin
+}
+
+templates /admin .html .txt .md
+
+
+
+cgi {
+match /*.sh  /uploads/master-scripts/*.sh
+exec /bin/sh /home/ain/pCloudDrive/html/hugo/admin{match}
+
+
+#match /door.sh  
+#exec /bin/sh /home/ain/pCloudDrive/caddy/mysites/gymnasio/{match}
+
+#exec /bin/sh /home/ain/www/master-scripts{match}
+}

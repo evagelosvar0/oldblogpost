@@ -1,0 +1,9 @@
+---
+title: Περιβαλλοντική  εκδρομή  Λευκάδας (ΚΠΕ Σφακιωτών)
+date: 2011-01-01
+tags: ["example1", "example2"]
+thumbnail: img/placeholder.png
+---
+![](http://www.hotelsline.gr/root/newhotel/maps/lefkada_map.jpg) 
+Ένα βίντεο που ετοίμασε η μαθήτρια Χριστίνα Στεργίου της Γ2 Τάξης  σχετικά με την περιβαλλοντική  εκδρομή στην Λευκάδα 
+[πατήστε ΕΔΩ](https://www.dropbox.com/s/b9b0itjxe567723/%CE%9B%CE%B5%CF%85%CE%BA%CE%AC%CE%B4%CE%B1%203.wmv)

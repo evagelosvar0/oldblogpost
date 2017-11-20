@@ -1,0 +1,95 @@
+#curl https://getcaddy.com | bash -s personal http.cgi,http.filemanager,http.upload,http.webdav
+
+
+http://gymnasioker4.graeca.tk:2222 {
+
+browse
+
+root /home/ain/pCloudDrive/html/hugo/admin
+
+redir 302 {
+  if {path} is /
+  / /articles/index.md
+}
+
+templates / .html .txt .md
+
+markdown / {
+
+css /articles/xblog.css
+
+template /articles/default.html
+template blog /articles/blog.html 
+}
+
+cgi {
+
+match /*.sh   /scripts/*.sh
+exec /bin/sh /home/ain/pCloudDrive/html/hugo/admin{match}
+
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#http://*.graeca.tk, http://www.graeca.tk, http://graeca.tk
+http://patrologia.graeca.tk, http://www.graeca.tk, http://graeca.tk
+#http://www.graeca.tk:8987
+browse
+root /home/ain/
+
+
+#basicauth /pCloudDrive ain ainain
+#basicauth  ain ainain
+basicauth "Mary Lou" milkshakes {
+    realm "Mary Lou's documents"
+    
+   /hugo/xadmin
+}
+
+#redir http://patrologia.graeca.tk:8888 http://patrologia.graeca.tk:8888/hta
+#redir /hta /hta/searchindexcaddy.html
+#redir / /hta/searchindexcaddy.html
+
+redir 302 {
+  if {path} is /
+  / /hta/searchindexcaddy.html
+}
+redir 302 {
+  if {path} is /hta
+  /hta /hta/searchindexcaddy.html
+}
+
+
+
+
+cgi {
+match /*.sh  /pCloudDrive/uploads/master-scripts/*.sh
+exec /bin/sh /home/ain{match}
+
+
+#match /door.sh  
+#exec /bin/sh /home/ain/pCloudDrive/caddy/mysites/gymnasio/{match}
+
+#exec /bin/sh /home/ain/www/master-scripts{match}
+}

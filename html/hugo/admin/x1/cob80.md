@@ -1,0 +1,8 @@
+---
+title: Το τεύχος Φεβρουαρίου του Μαθητικού Περιδικού
+date: 2011-01-01
+tags: ["example1", "example2"]
+thumbnail: img/placeholder.png
+---
+[![](http://2.bp.blogspot.com/--eCqw3vnVLo/UTOhKamZCdI/AAAAAAAABdY/f8EIMkVnH9Q/s200/111.jpg)](http://2.bp.blogspot.com/--eCqw3vnVLo/UTOhKamZCdI/AAAAAAAABdY/f8EIMkVnH9Q/s1600/111.jpg) 
+<iframe frameborder="0" height="327" scrolling="no" src="https://skydrive.live.com/embed?cid=93EFE049DF9140DA&resid=93EFE049DF9140DA%211130&authkey=ACK5qWDezsu-ANA&em=2" width="402"></iframe>

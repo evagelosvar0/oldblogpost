@@ -1,0 +1,8 @@
+---
+title: Εκπαιδευτικό εργαλείο Surfmark
+date: 2011-01-01
+tags: ["example1", "example2"]
+thumbnail: img/placeholder.png
+---
+![](http://tech.co/wp-content/uploads/2011/06/surfmark.jpg). 
+**Δείτε αυτό το εκπαιδευτικό εργαλείο.****Μπορείτε να βάζετε σημειώσεις πάνω σε σελίδες του ίντερνετ καθώς ****και πολλά άλλα...****ίσως κάτι αξίζει ...****[Πατήστε εδώ](http://www.surfmark.com/)**

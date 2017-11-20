@@ -1,0 +1,11 @@
+---
+title: Ύλη εξετάσεων Ιουνίου 2015 - Γαλλικά
+date: 2011-01-01
+tags: ["example1", "example2"]
+thumbnail: img/placeholder.png
+---
+![](http://3.bp.blogspot.com/-tQkY2nunWEE/VT9KhgfEIdI/AAAAAAAAAWQ/-QZXz0s7XhI/s1600/%CE%93%CE%B1%CE%BB%CE%BB%CE%B9%CE%BA%CE%AC.jpg) 
+[Γαλλικά Α΄Γυμνασίου - Ύλη ](https://drive.google.com/open?id=0BymwTTWt26-jb2tiTWV1ZVJFNmM&authuser=0) 
+[Γαλλικά Β΄Γυμνασίου - Ύλη](https://drive.google.com/open?id=0BymwTTWt26-jaWtjWXFObndxU1U&authuser=0) 
+[Γαλλικά Γ΄Γυμνασίου - Ύλη ](https://drive.google.com/open?id=0BymwTTWt26-jRUF0M0xWVVM0OGM&authuser=0) 
+Αμανατίδου Αθηνά ΠΕ05

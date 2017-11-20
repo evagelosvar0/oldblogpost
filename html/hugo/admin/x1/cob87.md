@@ -1,0 +1,11 @@
+---
+title: Περιβαλλοντική συνεργασία με το γυμνάσιο Ορεστιάδας
+date: 2011-01-01
+tags: ["example1", "example2"]
+thumbnail: img/placeholder.png
+---
+Περιβαλλοντική συνεργασία με το γυμνάσιο Ορεστιάδας μήνυμα  των καθηγητών του 4ου Γυμνασίου Κέρκυρας προς το σχολειό τους  
+επίσης διαφορές δραστηριότητες στο κήπο του  
+γυμνασίου μας... όπως η κατασκευή  παρτεριών από τους μαθητές. 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzDi1yuZTtbKuv2_gtznvpg5vu0WelAxXpAP4AsWDDk6gL1WxL3w) 
+[εδώ](https://www.dropbox.com/sh/ddvopgowslujom3/PzQylVizq2)

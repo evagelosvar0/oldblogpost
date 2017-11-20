@@ -1,0 +1,8 @@
+---
+title: Η ομορφιά του σύμπαντος
+date: 2011-01-01
+tags: ["example1", "example2"]
+thumbnail: img/placeholder.png
+---
+![](http://asset.tovima.gr/vimawebstatic//0C398A79E470E2AC69257D57B01171F2.jpg) 
+<iframe allowfullscreen="" frameborder="0" height="270" src="//www.youtube.com/embed/jpl2fYgT9_U" width="480"></iframe>

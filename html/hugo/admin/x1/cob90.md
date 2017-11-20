@@ -1,0 +1,9 @@
+---
+title: Η πρώτη μπαταρία στον κόσμο
+date: 2011-01-01
+tags: ["example1", "example2"]
+thumbnail: img/placeholder.png
+---
+![](http://images.trolling.gr/dyn_storage/1315741517/arxaia_mpataria_1317721399.jpeg)
+
+<iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriSYUtkODBjRGJXX0E/preview" width="500"></iframe>

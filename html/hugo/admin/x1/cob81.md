@@ -1,0 +1,8 @@
+---
+title: Βιολογία μια σύνοψη
+date: 2011-01-01
+tags: ["example1", "example2"]
+thumbnail: img/placeholder.png
+---
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Biology_organism_collage.png/300px-Biology_organism_collage.png) 
+[Μιά Ομορφη Παρουσίαση για την Βιολογία](https://docs.google.com/file/d/0B_I1oSy0BsA3aml3NU1FUkd5aXM/edit)

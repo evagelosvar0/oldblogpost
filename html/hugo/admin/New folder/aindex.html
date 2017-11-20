@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<body>
+		 {{.Include "/hugo/admin/header.html"}}
+		 
+{{if .PathMatches "/hugo/admin"}}
+	Only for secret sauce pages
+{{else}}
+	No secret sauce for you
+{{end}}
+ 
+ {{ range .Files "/hugo/admin/includes" }}
+               <br>
+               2222
+             {{.}}
+               
+               
+            {{ end }}
+ 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		<p>
+			Welcome {{.IP}}! You're visiting {{.URI}}.
+		</p>
+		{{.Include "/hugo/admin/includes/footer.html"}}
+		{{.Markdown "/hugo/admin/includes/file.md"}}
+		
+		{{.Include "/hugo/admin/includes/file.html" "arg1" 2 "value 3"}}
+		{{.Replace "haystack" "needle" "replacement"}}
+		haystack haystack needle needle
+		
+		{{.ToUpper "/hugo/admin/includes/header.html"}}
+		
+		{{.Files "/hugo/admin/includes"}}
+	</body>
+</html>

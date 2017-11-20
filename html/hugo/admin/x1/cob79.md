@@ -1,0 +1,9 @@
+---
+title: Unicef - Δώσε ελπίδα στα όνειρα τους
+date: 2011-01-01
+tags: ["example1", "example2"]
+thumbnail: img/placeholder.png
+---
+<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/vzsK0zYy6Ks" width="420"></iframe> 
+**Ένα βίντεο κατασκευασμένο απο την ****Μαθήτρια Γ τάξης του 4ου Γυμνασίου** 
+**_Κωνσταντίνα Μπότση_**

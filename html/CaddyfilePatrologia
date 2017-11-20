@@ -1,0 +1,198 @@
+#curl https://getcaddy.com | bash -s personal http.cgi,http.filemanager,http.upload,http.webdav
+
+http://school.graeca.tk {
+
+browse
+root /home/ain
+basicauth ain ainain {
+    realm "Mary Lou's documents"
+    
+   /docs/secret
+}
+
+redir 302 {
+  if {path} is /
+  / /docs
+}
+
+
+templates /docs .html .txt .md
+
+
+
+markdown /docs {
+
+#css /pCloudDrive/html/hugo/admin/articles/xblog.css
+css /docs/css/xblog.css
+#template /hugo/admin/articles/default.html
+#template blog /hugo/admin/articles/blog.html
+
+template ppt /docs/templates/ppt.html
+
+}
+
+
+
+}
+
+###########################################
+
+http://bible.graeca.tk {
+
+browse
+root /home/ain
+basicauth ain ainain {
+    realm "Mary Lou's documents"
+    
+   /docs/secret
+}
+
+redir 302 {
+  if {path} is /
+  / /docs
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+###########################################
+
+http://gymnasioker4.graeca.tk {
+
+browse /hugo/admin/articles/gymnasioker4.github.io-master/
+
+root /home/ain/pCloudDrive/html
+
+
+#basicauth /pCloudDrive ain ainain
+#basicauth  ain ainain
+
+basicauth ain ainain {
+ #   realm "Mary Lou's documents"
+   
+  /hugo/admin/scripts
+ # /hugo/admin/articles/gymnasioker4.github.io-master
+ # /hugo/admin/articles/gymnasioker4.github.io-master/lessons
+
+}
+basicauth eleni eleni {
+ #   realm "Mary Lou's documents"
+  /hugo/admin/scripts
+  #/hugo/admin/articles/gymnasioker4.github.io-master/eleni
+}
+
+
+redir 302 {
+  if {path} is /admin
+  /admin /hugo/admin/scripts/index.sh
+}
+
+
+
+
+
+
+log / /home/ain/pCloudDrive/html/access.log "{remote} - {user} [{when}] \"{method} {uri} {proto}\" {status} {size} \"{>Referer}\" \"{>User-Agent}\""
+redir /{user}     /hugo/admin/{user}
+
+
+#templates /hugo/admin .html .txt .md
+#markdown /hugo/gymnasioker4/content/post
+
+templates /hugo .html .txt .md
+
+markdown /hugo {
+js  /hugo/admin/articles/js/blog.js
+css /hugo/admin/articles/css/blog.css
+css /hugo/admin/articles/css/xblog.css
+template /hugo/admin/articles/default.html
+template blog /hugo/admin/articles/blog.html 
+}
+
+
+
+cgi {
+match /*.sh  /test/*.sh  /hugo/admin/*.sh /hugo/admin/scripts/*.sh  /hugo/admin/articles/gymnasioker4.github.io-master/eleni/*.sh
+exec /bin/sh /home/ain/pCloudDrive/html{match}
+
+}
+
+redir 302 {
+  if {path} is /
+  / /hugo/admin/articles/index.md
+}
+redir 302 {
+  if {path} is /hugo
+  /hugo /hugo/admin/articles/index.md
+}
+redir 302 {
+  if {path} is /hugo/admin
+  /hugo/admin /hugo/admin/articles/index.md
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+###########################################
+
+
+#http://*.graeca.tk, http://www.graeca.tk, http://graeca.tk
+http://patrologia.graeca.tk, http://www.graeca.tk, http://graeca.tk
+#http://www.graeca.tk:8987
+#browse
+root /home/ain/
+
+
+#basicauth /pCloudDrive ain ainain
+#basicauth  ain ainain
+basicauth ain ainain {
+    realm "Mary Lou's documents"
+    
+   /docs/secret
+}
+
+#redir http://patrologia.graeca.tk:8888 http://patrologia.graeca.tk:8888/hta
+#redir /hta /hta/searchindexcaddy.html
+#redir / /hta/searchindexcaddy.html
+
+redir 302 {
+  if {path} is /
+  / /hta/searchindexcaddy.html
+}
+redir 302 {
+  if {path} is /hta
+  /hta /hta/searchindexcaddy.html
+}
+
+
+
+
+cgi {
+match /*.sh  /pCloudDrive/uploads/master-scripts/*.sh
+exec /bin/sh /home/ain{match}
+
+
+#match /door.sh  
+#exec /bin/sh /home/ain/pCloudDrive/caddy/mysites/gymnasio/{match}
+
+#exec /bin/sh /home/ain/www/master-scripts{match}
+}

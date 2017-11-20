@@ -1,0 +1,8 @@
+---
+title: Ιστορία Β΄τάξη Παρουσίαση - Οι γείτονες του Βυζαντίου
+date: 2011-01-01
+tags: ["example1", "example2"]
+thumbnail: img/placeholder.png
+---
+[![](//1.bp.blogspot.com/--R2osGcozLE/VGJiqxdszrI/AAAAAAAAAG0/3gRwMFYMqCc/s1600/%CE%9F%CE%B9%2B%CE%B3%CE%B5%CE%AF%CF%84%CE%BF%CE%BD%CE%B5%CF%82%2B%CF%84%CE%BF%CF%85%2B%CE%92%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%AF%CE%BF%CF%85.jpg)](https://1.bp.blogspot.com/--R2osGcozLE/VGJiqxdszrI/AAAAAAAAAG0/3gRwMFYMqCc/s1600/%CE%9F%CE%B9%2B%CE%B3%CE%B5%CE%AF%CF%84%CE%BF%CE%BD%CE%B5%CF%82%2B%CF%84%CE%BF%CF%85%2B%CE%92%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%AF%CE%BF%CF%85.jpg) 
+[Παρουσίαση - Οι γείτονες του Βυζαντίου](http://www.slideboom.com/presentations/474075/%CE%9F%CE%B9-%CE%B3%CE%B5%CE%AF%CF%84%CE%BF%CE%BD%CE%B5%CF%82-%CF%84%CF%89%CE%BD-%CE%92%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CF%8E%CE%BD)

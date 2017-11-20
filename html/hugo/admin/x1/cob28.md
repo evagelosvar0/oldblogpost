@@ -1,0 +1,12 @@
+---
+title: Ενημέρωση για την Ασφάλεια στο Διαδίκτυο
+date: 2011-01-01
+tags: ["example1", "example2"]
+thumbnail: img/placeholder.png
+---
+![](http://4.bp.blogspot.com/-5o4jTlWH8m4/VKg2tKKy3KI/AAAAAAAAAKE/npaLDocGtiI/s1600/DSC02770.JPG)![](http://1.bp.blogspot.com/-tmSfuCw20cA/VKg2sNj7WjI/AAAAAAAAAJ4/VXK-OFA9tk4/s1600/DSC02762.JPG)![](http://4.bp.blogspot.com/-89Ntst4IVUk/VKg2s34LvRI/AAAAAAAAAKA/An68h9DHrhw/s1600/DSC02766.JPG) 
+Στις 19.12.2014 οι μαθητές μας της Α΄τάξης ενημερώθηκαν από τον κ.Μπόικο Σπύρο του Κέντρου Ψυχικής Υγείας - Ιατροπαιδαγωγικού Κέντρου Κέρκυρας, σχετικά με την **Ασφάλεια στο Διαδίκτυο**.Με αφορμή την προβολή ενός βίντεο,έγινε συζήτηση με τους μαθητέςγια τα δικαιώματά τους αλλά και για την υποχρέωσή τους να χρησιμοποιούνμε ασφάλεια το Διαδίκτυο.
+Τα παιδιά μέσω ερωταπαντήσεων, αναγνώρισαν τους κινδύνους που ενέχει η ασύνετη χρήση του Διαδικτύου και συνειδητοποίησαν την σημασία που έχει ναπροστατεύουν οι ίδιοι τον εαυτό τους, ακολουθώντας τους κανόνεςπου εγγυώνται την ασφάλειά τους. 
+Αμανατίδου Αθηνά ΠΕ05-ΠΕ09 
+Δείτε το σχετικό βίντεο εδώ 
+<iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" width="320" height="266" src="https://www.youtube.com/embed/XCkOhmxaf6A?feature=player_embedded" frameborder="0"></iframe>
